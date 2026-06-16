@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ScaleWithAugmex/.github/main/assets/augmex-logo.png" alt="Augmex Technologies logo" width="170" />
+<img src="https://augmex.io/assets/augmex_web_logo_white.png" alt="Augmex Technologies logo" width="170" />
 
 # Augmex Technologies
 
